@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+.test {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 500px;
+}
+
+.test2 {
+    background-color: yellow;
+    color: white;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+
+.test3 {
+    background-color: orangered;
+    color: white;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -200px;
+    left: 800px;
+}
+
+/* .test {
+    -webkit-transform: rotate(360deg);
+    animation: rotation 3s linear infinite;
+    -moz-animation: rotation 3s linear infinite;
+    -webkit-animation: rotation 3s linear infinite;
+    -o-animation: rotation 3s linear infinite;
+  }
+  @-webkit-keyframes rotation {
+    from {-webkit-transform: rotate(0deg);}
+    to {-webkit-transform: rotate(360deg);}
+  }
+
+  .test2 {
+    -webkit-transform: rotate(360deg);
+    animation: rotation 3s linear infinite;
+    -moz-animation: rotation 3s linear infinite;
+    -webkit-animation: rotation 3s linear infinite;
+    -o-animation: rotation 3s linear infinite;
+  }
+  @-webkit-keyframes rotation {
+    from {-webkit-transform: rotate(0deg);}
+    to {-webkit-transform: rotate(360deg);}
+  }

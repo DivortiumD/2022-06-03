@@ -13,7 +13,7 @@ body {
 }
 
 .test2 {
-    background-color: yellow;
+    background-color: rgb(255, 191, 0);
     color: white;
     width: 200px;
     height: 200px;
@@ -23,7 +23,7 @@ body {
 }
 
 .test3 {
-    background-color: orangered;
+    background-color: rgb(242, 210, 189);
     color: white;
     width: 200px;
     height: 200px;
